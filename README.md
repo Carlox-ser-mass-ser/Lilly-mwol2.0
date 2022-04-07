@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=00FF00&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=LILLY-MWOL+CODDED+BY;CALROX-SER+-+MASS-SER)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/880CEdp.jpeg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/QMAZ3UG.jpeg"/>
   <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Lilly-mwol2.0" src="https://img.shields.io/badge/Lilly-mwol2.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-prince-rudh/Rudhra?color=lime&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Carlox-ser-mass-ser"><img title="Author" src="https://img.shields.io/badge/Author-Carlox-ser-mass-ser/Lilly-mwol2.0?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Carlox-ser-mass-ser">Carlox-ser-mass-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to m
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -39,43 +39,47 @@ bash <(curl -L https://t.ly/tHxh)
   
 1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@PrinceRudh/Rudhra-QR?v=1)
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@Carlox-ser-mass-ser/Lilly-mwol2.0-QR?v=1)
  
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
+ Click [FORK](https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0 copy this url and change Carlox-ser-mass-ser with your github username and click go<br>
 
 ----
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">MASS SER:</h3>
 <p align="center">
-<a href="https://instagram.com/princerudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/mass.ff" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+</p>
+<h3 align="center">CARLOX SER:</h3>
+<p align="center">
+<a href="https://instagram.com/_carlox._" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtu.be" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
 
   <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra2.0">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra2.0?color=lime&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0">
+    <img src="https://img.shields.io/github/repo-size/Carlox-ser-mass-ser/Lilly-mwol2.0?color=Magenta&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra2.0?color=lime&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra2.0?label=Watchers&color=lime&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-lime.svg"</a>
+<a href="https://github.com/Carlox-ser-mass-ser/followers"><img title="Followers" src="https://img.shields.io/github/followers/Carlox-ser-mass-ser?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Carlox-ser-mass-ser/Lilly-mwol2.0?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Carlox-ser-mass-ser/Lilly-mwol2.0?color=Magenta&style=flat-square"></a>
+<a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Carlox-ser-mass-ser/Lilly-mwol2.0?label=Watchers&color=Magenta&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-Magenta.svg"</a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://i.imgur.com/QMAZ3UG.jpeg)](https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK)
   <div align="center">
        
   </div>
@@ -86,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0
+$ cd Lilly-mwol2.0
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra2.0
-$ cd Rudhra
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0
+$ cd Lilly-mwol2.0
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -117,9 +121,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince-Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/prince-rudh)
+  [![`Carlox-ser-mass-ser`](https://github.com/Carlox-ser-mass-ser.png?size=200)](https://github.com/Carlox-ser-mass-ser)
 
-[`Prince-Rudh`](https://github.com/prince-rudh)  
+[`Carlox-ser-mass-ser`](https://github.com/Carlox-ser-mass-ser)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
