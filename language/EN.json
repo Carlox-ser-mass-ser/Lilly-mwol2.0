@@ -204,7 +204,7 @@
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/watch?v=HD1-MX9q6fY```",
             "DOWNLOADING_VIDEO": "*✮⃝🎞️Lilly2.0 downloadιng yoυr vιdeo✮⃝🎥*",
             "UPLOADING_VIDEO": "*✮⃝🎞️Lilly2.0 υploadιng yoυr vιdeo✮⃝🎥*",
-            "LOADING": "*✮⃝🎞️rυdнra downloadιng yoυr vιdeo✮⃝🎥*",
+            "LOADING": "*✮⃝🎞️𝚕𝚒𝚕𝚕𝚢 2.0 ᶜᵃʳˡᵒˣ ✘ ᴹᴬˢˢ-ˢᴱᴿ downloadιng yoυr vιdeo✮⃝🎥*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
@@ -239,8 +239,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Lilly-mwol2.0 ł$ ₡ØMPŁE₸EŁ¥ UP-₸Ø-Ðλ₸E!*",
-            "NEW_UPDATE": "*₦E₩ UPÐλ₸E λVλłŁλBŁE ₣ØƦ Lilly-mwol2.0!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK*\n\n*✠ ᴄᴀʀʟᴏx & ᴍᴀss-sᴇʀ ✠*\n\nChanges:\n```",
+            "UPDATE": "*Lilly-mwol2.0 ł$ 𝙻𝚒𝚕𝚕𝚢 2.0 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢✌🏻!*",
+            "NEW_UPDATE": "*NEW UPDATE AVAILBLE FOR LILLY-MWOL2.0👊🏻!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK*\n\n*✠ ᴄᴀʀʟᴏx & ᴍᴀss-sᴇʀ ✠*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Lilly-mwol2.0 UPÐλ₸E ₡ҤE¥¥λ₸₸E...⏳```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
@@ -305,7 +305,7 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Rudhra Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Rυԃԋɾα Cσɳʋҽɾƚιɳɠ Vιԃҽσ ƚσ Aυԃισ..```",
+            "MP4TOAUDİO": "ʟɪʟʟy-ᴍᴡᴏʟ 2.0 ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴠɪᴅᴇᴏ ᴛᴏ ᴀᴜᴅɪᴏ💞",
             "ANİM_STİCK": "Converts animated stickers to video.",
             "ANİMATE": "```Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
