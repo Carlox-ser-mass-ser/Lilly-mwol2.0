@@ -4,7 +4,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-    Prince.addCommand({pattern: 'owner', fromMe: true, desc: 'shows the detail of bot owner'}, (async (message, match) => {
+    Carlox&Mass.addCommand({pattern: 'owner', fromMe: true, desc: 'shows the detail of bot owner'}, (async (message, match) => {
 
         if (message.jid === '15369524516-1612300121@g.us') {
 
@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*ʀᴜᴅʜʀᴀ ʙʏ ᴘʀɪɴᴄᴇ ʀᴜᴅʜ*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*Lilly-Mwol2.0 ʙʏ Carlox & Mass-ser*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
