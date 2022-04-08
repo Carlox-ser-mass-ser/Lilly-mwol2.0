@@ -5,6 +5,6 @@ WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --ignore-engines
-RUN git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0/files
+RUN git clone https://github.com/prince-rudh/files
 
 CMD ["node", "bot.js"]
