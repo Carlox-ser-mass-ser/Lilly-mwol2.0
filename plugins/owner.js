@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*ʀᴜᴅʜʀᴀ ʙʏ ᴘʀɪɴᴄᴇ ʀᴜᴅʜ*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*ʟɪʟʟy_ᴍᴡᴏʟ2.0 ʙy ᴄᴀʀʟᴏx & ᴍᴀꜱꜱ-ꜱᴇʀ*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
