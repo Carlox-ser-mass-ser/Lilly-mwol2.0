@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=LILLY-MWOL+CODDED+BY;CALROX-SER+-+MASS-SER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=LILLY-MWOL2.0+Programmed+BY;🔥CALROX-SER+-+MASS-SER🔥)](https://git.io/typing-svg)
 
  </a>
 </p>
