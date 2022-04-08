@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra",
+  "name": "Lilly-Mwol2.0",
   "version": "7.3.6",
-  "description": "Rudhra is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
+  "description": "Lilly-Mwol2.0 is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
   "main": "./Rudhra/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prince-rudh/Rudhra.git"
+    "url": "git+https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0"
   },
   "keywords": [
     "whatsapp",
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "prince-rudh",
-  "developer": "@TOXIC-DEVIL / @prince-rudh",
+  "author": "Carlox & Mass-ser",
+  "developer": "@Carlox-ser / @Mass-ser",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/prince-rudh/Rudhra/issues"
